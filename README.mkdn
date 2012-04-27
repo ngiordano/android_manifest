@@ -1,9 +1,9 @@
 I modified this read me from CNA (Codename Android)
-This build is a modified CNA source as well
-http://www.codenameandroid.org
+    This build is a modified CNA source as well
+    http://www.codenameandroid.org
 
 Team Passion
-http://team-passion.com/
+    http://team-passion.com/
 
 Initializing a Build Environment
 --------------------------
