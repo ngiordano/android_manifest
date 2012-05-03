@@ -2,7 +2,7 @@ I modified this read me from CNA (Codename Android)
 
 This build is a modified CNA source as well
     
-http://www.codenameandroid.org
+--Their site is down--
 
 Team Passion
 
@@ -62,4 +62,4 @@ Initialize the environment with the envsetup.sh script. Note that replacing "sou
 
     . build/envsetup.sh
     lunch cna_mod_vibrantmtd-userdebug
-    mka squish CNA_RELEASE=true
+    mka squish
